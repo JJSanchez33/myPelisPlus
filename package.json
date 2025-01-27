@@ -1,0 +1,24 @@
+{
+  "name": "aplicacionpeliculas",
+  "version": "1.0.0",
+  "description": "este es un aplicacion para ver tv y peliculas ",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest",
+    "server":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJSanchez33/myPelisPlus.git"
+  },
+  "author": "jhon jader sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJSanchez33/myPelisPlus/issues"
+  },
+  "homepage": "https://github.com/JJSanchez33/myPelisPlus#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "lite-server": "^2.6.1"
+  }
+}

@@ -1,0 +1,11 @@
+html{
+    font-size: 62.5%;
+    box-sizing: content-box;
+}
+*,*::after, *::before{
+    box-sizing: inherit;
+}
+@font-face {
+    font-family: "fuente -principal";
+    src: url(/font/Rubik/Rubik-VariableFont_wght.ttf);
+}
